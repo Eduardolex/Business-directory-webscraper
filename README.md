@@ -161,10 +161,6 @@ python -m playwright install chromium
 3. Test with various directory sites
 4. Submit pull request with example URLs
 
-## License
-
-MIT License - see LICENSE file for details
-
 ## Disclaimer
 
 This tool is for educational and legitimate business research purposes. Always:
